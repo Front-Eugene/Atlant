@@ -1,0 +1,60 @@
+body {
+    margin: 0 auto;
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url(fonts/Roboto/Roboto-Black.ttf);
+   }
+
+h1 {
+    font-family: Roboto;
+    display: block;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 64px;
+    margin-left: 50px;
+}
+
+
+.navigation {
+    position: fixed;
+    z-index: 999999;
+    background: #fff;
+    width: 100%;
+    align-items: center;
+    border-bottom: 2px solid;
+}
+
+
+.logo {
+    width: 95%;
+    height: 70px;
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+}
+
+.links {
+    font-family: Roboto;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 50px;
+    align-items: center;
+}
+
+.hover {
+    font-weight: 700;
+    color: black;
+    text-decoration: none;
+}
+
+.hover:hover {
+    width: 240px;
+    border-radius: 5px;
+    align-items: center;
+    color: #fff;
+    background: #183181;
+}
