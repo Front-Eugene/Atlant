@@ -17,7 +17,6 @@ h1 {
     margin-left: 50px;
 }
 
-
 .navigation {
     position: fixed;
     z-index: 999999;
@@ -26,7 +25,6 @@ h1 {
     align-items: center;
     border-bottom: 2px solid;
 }
-
 
 .logo {
     width: 95%;
@@ -131,10 +129,6 @@ height: auto;
 border-top: 2px solid;
 }
 
-
-
-
-
 .statistics {
     width: 100%;
     height: 200px;
@@ -163,8 +157,6 @@ border-top: 2px solid;
     line-height: 26px;
 }
 
-
-
 .we_build {
     width: 100%;
     height: auto;
@@ -189,12 +181,6 @@ border-top: 2px solid;
     font-size: 16px;
     line-height: 26px;
 }
-
-
-
-
-
-
 
 .our_projects {
     width: 100%;
@@ -249,24 +235,16 @@ text-align: center;
     background: url(img/our_projects/reconstruction.png) no-repeat center;
 }
 
-
 .metal_construction {
     width: 50%;
     height: 550px;
     background: url(img/our_projects/metal.png) no-repeat center;
 }
 
-
 .projects {
     display: flex;
     justify-content: space-between;
 }
-
-
-
-
-
-
 
 .about_company {
     position: relative;
@@ -321,11 +299,6 @@ text-align: center;
     text-decoration: none;
 }
 
-
-
-
-
-
 .offer {
     text-align: right;
     z-index: 1;
@@ -377,11 +350,6 @@ text-align: center;
     color: #fff;
 }
 
-
-
-
-
-
 .gallery {
     position: relative;
     width: 100%;
@@ -403,18 +371,12 @@ text-align: center;
     background-color: rgb(27, 231, 61);
 }
 
-
-
-
-
-
 .trust_us {
     width: 100%;
     height: 600px;
     background: #F4F5F7;
     text-align: center;
 }
-
 
 .trust_us_text {
 
@@ -444,10 +406,6 @@ text-align: center;
     align-items: center;
     justify-content: space-around;
 }
-
-
-
-
 
 .footer {
     color: #D9DBE1;
